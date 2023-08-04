@@ -1,3 +1,4 @@
+//program that calculate the sum of numbers and their average
 #include <stdio.h>
 
 int main() {
