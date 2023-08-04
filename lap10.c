@@ -1,3 +1,4 @@
+//program that calculate the grades of students 
 #include <stdio.h>
 int main (void){
 	int grade ;
