@@ -1,3 +1,4 @@
+//program that check the id using switch
 #include <stdio.h>
 
 int main(void) {
