@@ -1,3 +1,4 @@
+//program that  take numbers from user and check the max and min numbers 
 #include <stdio.h>
 
 int maxNumber(int a, int b, int c, int d);
